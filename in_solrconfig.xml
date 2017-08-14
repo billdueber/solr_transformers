@@ -1,0 +1,3 @@
+  <!-- Let's experiment with a document transformer -->
+
+<transformer name="danit" class="com.billdueber.data.transformer.FieldNameDesuffixizerFactory" />
