@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="solr_transformers:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/solr_transformers_jar</output-path>
+    <root id="archive" name="solr_transformers.jar">
+      <element id="module-output" name="solr_transformers" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/commons/commons-text/1.1/commons-text-1.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/commons/commons-lang3/3.5/commons-lang3-3.5.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
